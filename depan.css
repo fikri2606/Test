@@ -1,0 +1,36 @@
+body{
+  font-family: Tahoma, Geneva, Sans-sans-serif;
+  color: #fff;
+  background: url(ship2.jpg);
+  background-size: cover;
+}
+.signin{
+  background: rgba(44, 62, 80, 0.7);
+  padding: 40px;
+  width: 400px;
+  margin: auto;
+  margin-top: 200px;
+  height: 170px;
+  margin-left: 450px;
+}
+form{
+  width: 240px;
+  text-align: center;
+}
+input[type=button]{
+  border: none;
+  width: 350px;
+  background: White;
+  color: #000;
+  line-height: 25px;
+  padding: 15px 0;
+  border-radius: 15px;
+  cursor: pointer;
+  font-family: 'Play', sans-serif;
+  font-size: 26px;
+  font-weight: 200px;
+}
+input[type=button]:hover{
+  color: #fff;
+  background-color: black;
+}
